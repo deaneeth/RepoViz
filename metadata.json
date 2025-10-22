@@ -1,0 +1,5 @@
+{
+  "name": "RepoViz",
+  "description": "An interactive node-based visualization tool for public GitHub repositories. Input a repo URL to generate a dynamic graph of its file structure, dependencies, and technologies, with extensive customization and export options.",
+  "requestFramePermissions": []
+}
